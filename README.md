@@ -1,6 +1,6 @@
 **Hybrid Search RAG Application**
 
-**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collabrative projects ! )**
+**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collaborative projects ! )**
 
 This project implements a Hybrid Search Retrieval-Augmented Generation (RAG) application that combines semantic vector search and 
 keyword search methodologies. The application is designed to enhance the retrieval process by comparing the results of a hybrid search
@@ -25,4 +25,4 @@ DOI: https://doi.org/10.1016/j.jallcom.2024.175803
 
 The methodologies and findings from this research paper are used to guide the development and evaluation of the hybrid search approach.
 
-**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collabrative projects ! )**
+**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collaborative projects ! )**
